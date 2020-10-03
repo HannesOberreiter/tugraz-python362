@@ -73,7 +73,7 @@ WORKDIR /root/informatik
 # Installing jupyter notebook
 #RUN pip3 install --upgrade pip
 RUN pip3 install notebook ipywidgets
-RUN pip3 pip install -e jupyter_contrib_nbextensions
+RUN pip3 install jupyter_contrib_nbextensions
 # We need to install cython seperately as it is a depency later
 RUN pip3 install cython
 # Installing modules defined in our requirements.txt
