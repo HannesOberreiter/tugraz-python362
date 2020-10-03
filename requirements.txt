@@ -1,0 +1,17 @@
+matplotlib==2.0.2
+numpy==1.13.1
+pandas==0.20.3
+scipy==0.19.1
+
+#pyproj==1.9.5.1
+#shapely==1.5.17
+#pyshp==1.2.11
+#libLAS==1.8.1
+cartopy==0.15.1
+#PySAL==1.14.1
+geopandas==0.3.0
+ggplot==0.11.5
+geoplotlib==0.3.2
+#pyglet==1.2.4
+#vispy==0.4.0
+	
